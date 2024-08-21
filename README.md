@@ -1,9 +1,10 @@
 ## Hello, Tan Yong Rui here! 👋
-I am a NUS Computer Science Graduate.
+I am a NUS Computer Science Graduate. Nothing crazy on this GitHub, what's on here is mostly my past and current work that I can showcase publicly.
 
 ---
 ## Current projects
 Currently actively maintaining and updating my passion project LilBot: A Multi-Function Discord Bot.
+
 
 <!--
 **Fenway17/Fenway17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
