@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, Tan Yong Rui here! 👋
+I am a NUS Computer Science Graduate.
+
+---
+## Current projects
+Currently actively maintaining and updating my passion project LilBot: A Multi-Function Discord Bot.
 
 <!--
 **Fenway17/Fenway17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
